@@ -51,7 +51,7 @@ const ahad = {
 <table align="center">
   <tr>
     <td align="center" width="33%"><b>Software Developer</b><br><sub>Full stack, mobile and AI-integrated apps</sub></td>
-    <td align="center" width="33%"><b>Faculty / Instructor</b><br><sub>Web development and software engineering</sub></td>
+    <td align="center" width="33%"><b>Faculty / Instructor</b><br><sub>Web development and teaching</sub></td>
     <td align="center" width="33%"><b>Collaboration</b><br><sub>Open source and AI-powered products</sub></td>
   </tr>
 </table>
@@ -154,36 +154,36 @@ const ahad = {
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sidahad/NexusAI-Multimodal-Chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=NexusAI-Multimodal-Chatbot&theme=tokyonight&hide_border=true" alt="NexusAI" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=NexusAI-Multimodal-Chatbot&theme=tokyonight&hide_border=true&v=2" alt="NexusAI" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/sidahad/Gamaxy-Gaming-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=Gamaxy-Gaming-Platform&theme=tokyonight&hide_border=true" alt="Gamaxy" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=Gamaxy-Gaming-Platform&theme=tokyonight&hide_border=true&v=2" alt="Gamaxy" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sidahad/AuraLens-AR-Ecommerce-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=AuraLens-AR-Ecommerce-App&theme=tokyonight&hide_border=true" alt="AuraLens" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=AuraLens-AR-Ecommerce-App&theme=tokyonight&hide_border=true&v=2" alt="AuraLens" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/sidahad/TalkToTextPro-Multimodal-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=TalkToTextPro-Multimodal-AI&theme=tokyonight&hide_border=true" alt="TalkToTextPro" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=TalkToTextPro-Multimodal-AI&theme=tokyonight&hide_border=true&v=2" alt="TalkToTextPro" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sidahad/TrekTrack-Courier-Management-Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=TrekTrack-Courier-Management-Website&theme=tokyonight&hide_border=true" alt="TrekTrack" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=TrekTrack-Courier-Management-Website&theme=tokyonight&hide_border=true&v=2" alt="TrekTrack" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/sidahad/SoleHub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=SoleHub&theme=tokyonight&hide_border=true" alt="SoleHub" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidahad&repo=SoleHub&theme=tokyonight&hide_border=true&v=2" alt="SoleHub" />
       </a>
     </td>
   </tr>
@@ -207,7 +207,7 @@ const ahad = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidahad&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=467" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?v=2&username=sidahad&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=467" alt="Top languages" />
 </p>
 
 <p align="center">
