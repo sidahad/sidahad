@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/sidahad">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Building+AI-powered+web+%26+mobile+apps+%F0%9F%9A%80;MERN+%7C+ASP.NET+Core+%7C+Flutter;Winner%3A+Generative+AI+Innovator+of+the+Year+2025+%F0%9F%8F%86;IT+Instructor+%7C+Mentor+%7C+Karachi%2C+Pakistan+%F0%9F%93%8D" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0891B2&center=true&vCenter=true&width=720&height=45&lines=Building+AI-powered+web+%26+mobile+apps+%F0%9F%9A%80;MERN+%7C+ASP.NET+Core+%7C+Flutter;Winner%3A+Generative+AI+Innovator+of+the+Year+2025+%F0%9F%8F%86;IT+Instructor+%7C+Mentor+%7C+Karachi%2C+Pakistan+%F0%9F%93%8D" alt="Typing intro" />
   </a>
 </p>
 
@@ -150,8 +150,8 @@ const ahad = {
 | 🎮 | **Gamaxy** | 48 games, uploads and downloads, payments, AI chatbot | [Repo](https://github.com/sidahad/Gamaxy-Gaming-Platform) |
 | 🕶️ | **AuraLens** | AR product preview, 3D views, AI interior designer, admin dashboard | [Repo](https://github.com/sidahad/AuraLens-AR-Ecommerce-App) |
 | 🎙️ | **TalkToTextPro** | Gemini, Groq and Cloudflare model switching, meeting translation, PDF analytics | [Repo](https://github.com/sidahad/TalkToTextPro-Multimodal-AI) |
-| 📦 | **TrekTrack** | Shipment tracking, rider management, invoices | [Repo](https://github.com/sidahad/TrekTrack-Courier-Management-Website) · [Live](https://trektrack.infinityfreeapp.com) |
-| 👟 | **SoleHub** | Animated, responsive e-commerce site | [Repo](https://github.com/sidahad/SoleHub) · [Live](https://solehub-7f40c.web.app/index.html) |
+| 📦 | **TrekTrack** | Shipment tracking, rider management, invoices | [Repo](https://github.com/sidahad/TrekTrack-Courier-Management-Website)&nbsp;·&nbsp;[Live](https://trektrack.infinityfreeapp.com) |
+| 👟 | **SoleHub** | Animated, responsive e-commerce site | [Repo](https://github.com/sidahad/SoleHub)&nbsp;·&nbsp;[Live](https://solehub-7f40c.web.app/index.html) |
 
 ---
 
@@ -173,7 +173,7 @@ const ahad = {
 <p align="center">
   <img src="https://img.shields.io/badge/Generative_AI-Multimodal_LLM_Apps-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Generative AI">
   <img src="https://img.shields.io/badge/Flutter-AR_Mobile_Experiences-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter AR">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-Clean_Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-Full_Stack_Web_Apps-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
   <img src="https://img.shields.io/badge/Computer_Science-BS_@_Ilma_University-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="BSCS">
 </p>
 
@@ -195,7 +195,11 @@ const ahad = {
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sidahad/sidahad/output/github-snake-dark.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidahad/sidahad/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidahad/sidahad/output/github-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/sidahad/sidahad/output/github-snake-dark.svg">
+  </picture>
 </p>
 
 <p align="center">
