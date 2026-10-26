@@ -14,17 +14,27 @@
   <a href="mailto:ahadkind32415@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://solehub-7f40c.web.app/index.html"><img src="https://img.shields.io/badge/Live_Demo-111827?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Live Demo"></a>
   <img src="https://komarev.com/ghpvc/?username=sidahad&label=Profile%20views&color=00d4ff&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/badge/Open_to-Developer_%26_Faculty_roles-22C55E?style=flat-square" alt="Open to work">
+</p>
+
+<p align="center">
+  <a href="#experience"><b>Experience</b></a> &nbsp;·&nbsp;
+  <a href="#stack"><b>Tech Stack</b></a> &nbsp;·&nbsp;
+  <a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp;
+  <a href="#stats"><b>Stats</b></a> &nbsp;·&nbsp;
+  <a href="#education"><b>Education</b></a>
 </p>
 
 ---
 
-## <img src="https://api.iconify.design/lucide/terminal.svg?color=%230891B2&width=26&height=26" width="26" height="26" align="center" alt="" />&nbsp; whoami
+## <img src="https://api.iconify.design/lucide/terminal.svg?color=%230891B2&width=22&height=22" width="22" height="22" align="center" alt="" />&nbsp; whoami
 
 ```js
 const ahad = {
   name:      "Muhammad Ahad",
   role:      ["Full Stack Developer", "Generative AI Enthusiast", "IT Instructor"],
   location:  "Karachi, Pakistan",
+  languages:  ["English (Fluent)", "Urdu (Native)"],
   education: "BS Computer Science @ Ilma University",
   stack:     ["MERN", "ASP.NET Core", "Flutter", "Python"],
   aiTools:   ["Gemini", "Groq", "Cloudflare AI"],
@@ -38,7 +48,41 @@ const ahad = {
 
 ---
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%230891B2&width=26&height=26" width="26" height="26" align="center" alt="" />&nbsp; Tech Arsenal
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>Software Developer</b><br><sub>Full stack, mobile and AI-integrated apps</sub></td>
+    <td align="center" width="33%"><b>Faculty / Instructor</b><br><sub>Web development and software engineering</sub></td>
+    <td align="center" width="33%"><b>Collaboration</b><br><sub>Open source and AI-powered products</sub></td>
+  </tr>
+</table>
+
+---
+
+<a id="experience"></a>
+## <img src="https://api.iconify.design/lucide/briefcase.svg?color=%230891B2&width=22&height=22" width="22" height="22" align="center" alt="" />&nbsp; Experience
+
+<table>
+  <tr>
+    <td width="170" valign="top">
+      <b>IT Instructor</b><br>
+      Aptech URC<br>
+      <sub>2025 – 2026</sub>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Delivered lectures on Web Development and Software Engineering</li>
+        <li>Mentored students in practical coding projects</li>
+        <li>Assisted learners in HTML, CSS, JavaScript, PHP, SQL and .NET development</li>
+        <li>Conducted hands-on lab sessions and project evaluations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<a id="stack"></a>
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%230891B2&width=22&height=22" width="22" height="22" align="center" alt="" />&nbsp; Tech Arsenal
 
 <details open>
 <summary><b>Frontend</b></summary>
@@ -103,7 +147,8 @@ const ahad = {
 
 ---
 
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%230891B2&width=26&height=26" width="26" height="26" align="center" alt="" />&nbsp; Featured Projects
+<a id="projects"></a>
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%230891B2&width=22&height=22" width="22" height="22" align="center" alt="" />&nbsp; Featured Projects
 
 <table>
   <tr>
@@ -157,7 +202,8 @@ const ahad = {
 
 ---
 
-## <img src="https://api.iconify.design/lucide/activity.svg?color=%230891B2&width=26&height=26" width="26" height="26" align="center" alt="" />&nbsp; Stats
+<a id="stats"></a>
+## <img src="https://api.iconify.design/lucide/activity.svg?color=%230891B2&width=22&height=22" width="22" height="22" align="center" alt="" />&nbsp; Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
@@ -170,7 +216,7 @@ const ahad = {
 
 ---
 
-## <img src="https://api.iconify.design/lucide/trending-up.svg?color=%230891B2&width=26&height=26" width="26" height="26" align="center" alt="" />&nbsp; Currently Leveling Up
+## <img src="https://api.iconify.design/lucide/trending-up.svg?color=%230891B2&width=22&height=22" width="22" height="22" align="center" alt="" />&nbsp; Currently Leveling Up
 
 <p align="center">
   <img src="https://img.shields.io/badge/Generative_AI-Multimodal_LLM_Apps-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Generative AI">
@@ -181,20 +227,21 @@ const ahad = {
 
 ---
 
-## <img src="https://api.iconify.design/lucide/trophy.svg?color=%230891B2&width=26&height=26" width="26" height="26" align="center" alt="" />&nbsp; Achievements
+## <img src="https://api.iconify.design/lucide/trophy.svg?color=%230891B2&width=22&height=22" width="22" height="22" align="center" alt="" />&nbsp; Achievements
 
 - **Tech Olympic Season 2 Winner**: Generative AI Innovator of the Year (2025), Aptech North Karachi
 - **Academic Excellence Award**: Aptech North Karachi
 - **Full Attendance Award**: 7 Quarters
 
-## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%230891B2&width=26&height=26" width="26" height="26" align="center" alt="" />&nbsp; Education
+<a id="education"></a>
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%230891B2&width=22&height=22" width="22" height="22" align="center" alt="" />&nbsp; Education
 
 - **BS Computer Science**, Ilma University (2026 – Present)
 - **Advanced Diploma in Software Engineering**, Aptech North Karachi (2023 – 2026)
 
 ---
 
-## <img src="https://api.iconify.design/lucide/git-commit-horizontal.svg?color=%230891B2&width=26&height=26" width="26" height="26" align="center" alt="" />&nbsp; Contribution Snake
+## <img src="https://api.iconify.design/lucide/git-commit-horizontal.svg?color=%230891B2&width=22&height=22" width="22" height="22" align="center" alt="" />&nbsp; Contribution Snake
 
 <p align="center">
   <picture>
