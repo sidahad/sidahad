@@ -7,12 +7,12 @@ I build modern web and mobile applications using the MERN stack, ASP.NET Core an
 
 ## 🛠 Tech Stack
 
-**Frontend:** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, jQuery, React.js, Angular, Next.js
-**Backend:** Node.js, Express.js, PHP, Laravel, Flask, ASP.NET Core MVC
-**Databases:** SQL Server, MySQL, MongoDB, Firebase
-**Mobile:** Flutter, Dart, Kotlin
-**Languages:** JavaScript, Python, C#, PHP, Dart
-**Tools:** Git, GitHub, Postman, Figma, Canva, WordPress
+- **Frontend:** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, jQuery, React.js, Angular, Next.js
+- **Backend:** Node.js, Express.js, PHP, Laravel, Flask, ASP.NET Core MVC
+- **Databases:** SQL Server, MySQL, MongoDB, Firebase
+- **Mobile:** Flutter, Dart, Kotlin
+- **Languages:** JavaScript, Python, C#, PHP, Dart
+- **Tools:** Git, GitHub, Postman, Figma, Canva, WordPress
 
 ## 🚀 Featured Projects
 
