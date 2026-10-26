@@ -144,38 +144,37 @@ const ahad = {
   </tr>
 </table>
 
-| | Project | Highlights | Live |
+| | Project | Highlights | Links |
 |---|---|---|---|
-| 🤖 | **NexusAI** | Text, image and voice prompts, spoken replies, persistent chat history | |
-| 🎮 | **Gamaxy** | 48 games, uploads and downloads, payments, AI chatbot | |
-| 🕶️ | **AuraLens** | AR product preview, 3D views, AI interior designer, admin dashboard | |
-| 🎙️ | **TalkToTextPro** | Gemini, Groq and Cloudflare model switching, meeting translation, PDF analytics | |
-| 📦 | **TrekTrack** | Shipment tracking, rider management, invoices | [Open](https://trektrack.infinityfreeapp.com) |
-| 👟 | **SoleHub** | Animated, responsive e-commerce site | [Open](https://solehub-7f40c.web.app/index.html) |
+| 🤖 | **NexusAI** | Text, image and voice prompts, spoken replies, persistent chat history | [Repo](https://github.com/sidahad/NexusAI-Multimodal-Chatbot) |
+| 🎮 | **Gamaxy** | 48 games, uploads and downloads, payments, AI chatbot | [Repo](https://github.com/sidahad/Gamaxy-Gaming-Platform) |
+| 🕶️ | **AuraLens** | AR product preview, 3D views, AI interior designer, admin dashboard | [Repo](https://github.com/sidahad/AuraLens-AR-Ecommerce-App) |
+| 🎙️ | **TalkToTextPro** | Gemini, Groq and Cloudflare model switching, meeting translation, PDF analytics | [Repo](https://github.com/sidahad/TalkToTextPro-Multimodal-AI) |
+| 📦 | **TrekTrack** | Shipment tracking, rider management, invoices | [Repo](https://github.com/sidahad/TrekTrack-Courier-Management-Website) · [Live](https://trektrack.infinityfreeapp.com) |
+| 👟 | **SoleHub** | Animated, responsive e-commerce site | [Repo](https://github.com/sidahad/SoleHub) · [Live](https://solehub-7f40c.web.app/index.html) |
 
 ---
 
 ## 📊 Stats
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sidahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidahad&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=7" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidahad&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=467" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sidahad&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidahad&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph" />
-</p>
-
 ---
 
-## 🏆 Trophies
+## 📈 Currently Leveling Up
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidahad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+  <img src="https://img.shields.io/badge/Generative_AI-Multimodal_LLM_Apps-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Generative AI">
+  <img src="https://img.shields.io/badge/Flutter-AR_Mobile_Experiences-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter AR">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-Clean_Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/Computer_Science-BS_@_Ilma_University-00D4FF?style=for-the-badge&logo=readme&logoColor=white" alt="BSCS">
 </p>
 
 ---
