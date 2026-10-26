@@ -24,7 +24,7 @@
 const ahad = {
   name:      "Muhammad Ahad",
   role:      ["Full Stack Developer", "Generative AI Enthusiast", "IT Instructor"],
-  location:  "Karachi, Pakistan 🇵🇰",
+  location:  "Karachi, Pakistan",
   education: "BS Computer Science @ Ilma University",
   stack:     ["MERN", "ASP.NET Core", "Flutter", "Python"],
   aiTools:   ["Gemini", "Groq", "Cloudflare AI"],
@@ -150,6 +150,8 @@ const ahad = {
 | 🎮 | **Gamaxy** | 48 games, uploads and downloads, payments, AI chatbot | [Repo](https://github.com/sidahad/Gamaxy-Gaming-Platform) |
 | 🕶️ | **AuraLens** | AR product preview, 3D views, AI interior designer, admin dashboard | [Repo](https://github.com/sidahad/AuraLens-AR-Ecommerce-App) |
 | 🎙️ | **TalkToTextPro** | Gemini, Groq and Cloudflare model switching, meeting translation, PDF analytics | [Repo](https://github.com/sidahad/TalkToTextPro-Multimodal-AI) |
+| 🚗 | **Vehicle Insurance System** | ASP.NET Core MVC with policy, claims, payment and customer management | [Repo](https://github.com/sidahad/Vehicle-Insurance-Management-System) |
+| 🛒 | **AhadTimezone E-Commerce** | ASP.NET Core MVC store with products, cart, orders and admin dashboard | [Repo](https://github.com/sidahad/AhadTimezone-ECommerce) |
 | 📦 | **TrekTrack** | Shipment tracking, rider management, invoices | [Repo](https://github.com/sidahad/TrekTrack-Courier-Management-Website)&nbsp;·&nbsp;[Live](https://trektrack.infinityfreeapp.com) |
 | 👟 | **SoleHub** | Animated, responsive e-commerce site | [Repo](https://github.com/sidahad/SoleHub)&nbsp;·&nbsp;[Live](https://solehub-7f40c.web.app/index.html) |
 
